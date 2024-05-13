@@ -1,2 +1,2 @@
-# Michael
+# AppDev
 My first repository
